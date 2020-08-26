@@ -1,11 +1,9 @@
 ### Hi there 👋
-
-<!--
-**MVDHaeze/MVDHaeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a self-educated developer who enjoyed discovering and trying new things
 In June 2017, I graduated from business school in my home city, Brussels. I started working in financial services as business analyst and later product owner on digital transformation projects. After 3 years, I quit to move for a new challenge in Shenzhen, China - but the coronavirus got me first! 
 With my plan upside down, I tried to focus on what I enjoy and started my path to become full stack developer without really knwoing what will come out of it. Since then, I tried to gather as much experience through personal projects and helping others on theirs own projects. 
 
+<--
 
 Here are some ideas to get you started:
 
