@@ -6,4 +6,4 @@ With my plan upside down, I tried to focus on what I enjoy and started my **path
 I do not know where life will take me, but in any cases, it will be fine.
 
 > Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So, throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in you sails. Explore. Dream. Discover.
-    > **H. Jackson Brown Jr.**
+> **H. Jackson Brown Jr.**
