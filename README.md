@@ -5,11 +5,10 @@ I am a self-educated developer who enjoyed discovering and trying new things.
 
 ## I'm a knowledge seeker, problem solver and regular wall climber!
 
-- 🔭 I’m currently working on a formula 1 [data science project][formulaOne]!
-- 🌱 I’m currently learning a little bit of everything!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: switch career to professional development
-- ⚡ Fun fact: I am really good at skipping rope
+- :raised_hands: I’m currently working on a formula 1 [data science project][formulaOne]!
+- :mortar_board: I’m currently learning a little bit of everything! :sweat_smile:
+- :dart: 2020 Goals: switch career to professional development
+- :eyes: Fun fact: I am really good at skipping rope :speak_no_evil:
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-streamer.vercel.app/api/spotify)](https://open.spotify.com/user/mvdhaeze)
