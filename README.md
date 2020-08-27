@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am really good at skipping rope
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-streamer.vercel.app/api/spotify-playing" alt="MaximeVDH Spotify Playing" width="350" />](https://open.spotify.com/user/mvdhaeze)
+[![Spotify](https://spotify-streamer.vercel.app/api/spotify)](https://open.spotify.com/user/mvdhaeze)
 
 ### Connect with me:
 
