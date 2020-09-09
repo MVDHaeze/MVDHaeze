@@ -55,6 +55,11 @@ I am a self-educated developer who enjoyed discovering and trying new things.
 <img height="24" alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img height="24" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img height="24" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+
+<!-- Other -->
+<img height="24" alt="Ghost" src="https://img.shields.io/badge/Ghost%20-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/>
+<img height="24" alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+<img height="24" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/>
 </p>
 <br />
 <br />
