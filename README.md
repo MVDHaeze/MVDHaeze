@@ -1,21 +1,23 @@
 ### Hi there, I'm [Maxime][website] 👋
+
 I am a self-educated developer who enjoyed discovering and trying new things.
 
 > Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So, throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in you sails. Explore. Dream. Discover. **H. Jackson Brown Jr.**
 
 ## I'm a knowledge seeker, problem solver and regular wall climber!
 
-- :raised_hands: I’m currently working on a formula 1 [data science project][formulaOne]!
 - :mortar_board: I’m currently learning a little bit of everything! :sweat_smile:
-- :dart: 2020 Goals: switch career to professional development
+- :dart: 2021 Goals: try to make sense of all the information I've taken in the last 6 months
 - :eyes: Fun fact: I am really good at skipping rope :speak_no_evil:
 
 ### Spotify Playing 🎧
+
 [![Spotify](https://spotify-streamer.vercel.app/api/spotify)](https://open.spotify.com/user/mvdhaeze)
 
 ### Connect with me:
 
-[<img align="left" alt="MaximeVDH.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="MaximeVDH.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
 [<img align="left" alt="MaximeVDH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -50,8 +52,8 @@ I am a self-educated developer who enjoyed discovering and trying new things.
 
 <!-- Hosting -->
 <img height="24" alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img height="24" alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img height="24" alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<!-- <img height="24" alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img height="24" alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> -->
 <img height="24" alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img height="24" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img height="24" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -72,7 +74,8 @@ I am a self-educated developer who enjoyed discovering and trying new things.
 
 </details>
 
-[website]: https://maximevdh.com
+<!-- [website]: https://maximevdh.com
+[formulaOne]: https://formulanalytics.com -->
+
 [linkedin]: https://www.linkedin.com/in/mvdhaeze/
 [behance]: https://www.behance.net/MVDHaeze
-[formulaOne]: https://formulanalytics.com
