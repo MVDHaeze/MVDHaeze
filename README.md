@@ -6,7 +6,7 @@ I am a self-educated developer who enjoyed discovering and trying new things.
 
 ## I'm a knowledge seeker, problem solver and regular wall climber!
 
-- :mortar_board: I’m currently learning a little bit of everything! :sweat_smile:
+- :mortar_board: I’m currently focusing more on front-end parts (React but also overal UI and UX design) :sweat_smile:
 - :dart: 2021 Goals: try to make sense of all the information I've taken in the last 6 months
 - :eyes: Fun fact: I am really good at skipping rope :speak_no_evil:
 
