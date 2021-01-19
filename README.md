@@ -1,13 +1,13 @@
-### Hi there, I'm [Maxime][website] 👋
+### Hi there, I'm Maxime 👋
 
-I am a self-educated developer who enjoyed discovering and trying new things.
+I am a self-educated developer who enjoyed discovering and trying new things. When the pandemic hit, I decided to jump and take some time to invest myself more on web development and graphic design. Before that, I worked 3 years as project manager on digital topics.
 
 > Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So, throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in you sails. Explore. Dream. Discover. **H. Jackson Brown Jr.**
 
 ## I'm a knowledge seeker, problem solver and regular wall climber!
 
-- :mortar_board: I’m currently focusing more on front-end parts (React but also overal UI and UX design) :sweat_smile:
-- :dart: 2021 Goals: try to make sense of all the information I've taken in the last 6 months
+- :mortar_board: I’m currently focusing more on front-end parts (React but also overal UI and UX design) :relaxed:
+- :dart: 2021 Goals: try to make sense of all the information I've taken in the last 6 months :sweat_smile:
 - :eyes: Fun fact: I am really good at skipping rope :speak_no_evil:
 
 ### Spotify Playing 🎧
